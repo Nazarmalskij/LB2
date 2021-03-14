@@ -1,0 +1,6 @@
+﻿  Cursor.cpp
+D:\Project\OOP\LB2\LB_2.1\Cursor.cpp(4,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Source.cpp
+D:\Project\OOP\LB2\LB_2.1\Source.cpp(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  LB_2.1.vcxproj -> D:\Project\OOP\LB2\LB_2.1\Debug\LB_2.1.exe
