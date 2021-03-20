@@ -1,0 +1,10 @@
+﻿  UnitTest2.5.cpp
+D:\Project\OOP\LB2\LB_2.5\Complex.cpp(20,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB2\LB_2.5\Complex.cpp(25,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB2\LB_2.5\Complex.cpp(30,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB2\LB_2.5\Complex.cpp(35,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB2\LB_2.5\Pair.cpp(28,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB2\LB_2.5\Pair.cpp(28,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB2\LB_2.5\Pair.cpp(55,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB2\LB_2.5\Pair.cpp(55,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  UnitTest2.5.vcxproj -> D:\Project\OOP\LB2\LB_2.5\Debug\UnitTest2.5.dll
