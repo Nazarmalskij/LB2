@@ -1,0 +1,4 @@
+﻿  UnitTest2.4.cpp
+D:\Project\OOP\LB2\LB_2.4\Matrix.cpp(109,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB2\LB_2.4\Matrix.cpp(126,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  UnitTest2.4.vcxproj -> D:\Project\OOP\LB2\LB_2.4\Debug\UnitTest2.4.dll
